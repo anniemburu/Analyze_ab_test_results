@@ -20,6 +20,11 @@ You will also be required to have some basic knowledge in;
 <li>Regression</li>
 <li>Basic Statistics</li>
 
+## Investigated Dataset
+For this project, the dataset which are used are found in the `Data` folder which are
+<li>ab_data.csv</li>
+<li> countries.csv</li>
+
 ## Referrence Material
 [Pandas Documentation]("https://pandas.pydata.org/docs/user_guide/")
 
