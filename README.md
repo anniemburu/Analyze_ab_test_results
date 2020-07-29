@@ -14,7 +14,9 @@ To run the following project, you would require the following installed;
 <li>Numpy</li>
 <li>Matplotlib</li>
 
+
 You will also be required to have some basic knowledge in;
+
 <li>Regression</li>
 <li>Basic Statistics</li>
 
